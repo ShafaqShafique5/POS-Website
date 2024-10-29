@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Shafaq_Shafique",
+    "children" : [ {
+      "name" : "16636@Shafaq_Shafique.main(1)",
+      "children" : [ {
+        "name" : "User can view specific branch data",
+        "uid" : "19567dde9355f669",
+        "parentUid" : "44ba9ab5f850b48b386304f188b8bf82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1730166853456,
+          "stop" : 1730166863856,
+          "duration" : 10400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can view all branches data",
+        "uid" : "e774940ac95b750c",
+        "parentUid" : "44ba9ab5f850b48b386304f188b8bf82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1730166840965,
+          "stop" : 1730166853425,
+          "duration" : 12460
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Successful login with valid credentials",
+        "uid" : "ae0ee7bde0d68b7e",
+        "parentUid" : "44ba9ab5f850b48b386304f188b8bf82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1730166863876,
+          "stop" : 1730166869699,
+          "duration" : 5823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selecting target branch",
+        "uid" : "8a3c1233dfa63dc8",
+        "parentUid" : "44ba9ab5f850b48b386304f188b8bf82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1730166830410,
+          "stop" : 1730166840883,
+          "duration" : 10473
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "44ba9ab5f850b48b386304f188b8bf82"
+    } ],
+    "uid" : "3b7e71eded1524e1590f542787c31e80"
+  } ]
+}

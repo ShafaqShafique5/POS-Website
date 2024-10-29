@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 29 06:54:13 PKT 2024","Tue Oct 29 06:54:23 PKT 2024","10400","","View dashboard functionality","","User can view specific branch data","","User can view specific branch data",""
+"passed","Tue Oct 29 06:54:00 PKT 2024","Tue Oct 29 06:54:13 PKT 2024","12460","","View dashboard functionality","","User can view all branches data","","User can view all branches data",""
+"passed","Tue Oct 29 06:54:23 PKT 2024","Tue Oct 29 06:54:29 PKT 2024","5823","","Login Functionality","","Successful login with valid credentials","","Successful login with valid credentials",""
+"passed","Tue Oct 29 06:53:50 PKT 2024","Tue Oct 29 06:54:00 PKT 2024","10473","","Create New Order functionality","","Selecting target branch","","Selecting target branch",""

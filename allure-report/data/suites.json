@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Create New Order functionality",
+    "children" : [ {
+      "name" : "Selecting target branch",
+      "uid" : "8a3c1233dfa63dc8",
+      "parentUid" : "485c4cf9d36208ef0fba7413cc40f06d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730166830410,
+        "stop" : 1730166840883,
+        "duration" : 10473
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "485c4cf9d36208ef0fba7413cc40f06d"
+  }, {
+    "name" : "View dashboard functionality",
+    "children" : [ {
+      "name" : "User can view all branches data",
+      "uid" : "e774940ac95b750c",
+      "parentUid" : "db0c39fb78ca3f98d793191b81b12e41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730166840965,
+        "stop" : 1730166853425,
+        "duration" : 12460
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "User can view specific branch data",
+      "uid" : "19567dde9355f669",
+      "parentUid" : "db0c39fb78ca3f98d793191b81b12e41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730166853456,
+        "stop" : 1730166863856,
+        "duration" : 10400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "db0c39fb78ca3f98d793191b81b12e41"
+  }, {
+    "name" : "Login Functionality",
+    "children" : [ {
+      "name" : "Successful login with valid credentials",
+      "uid" : "ae0ee7bde0d68b7e",
+      "parentUid" : "a9c8f11b4c0d702164a4731c0b55ffa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730166863876,
+        "stop" : 1730166869699,
+        "duration" : 5823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a9c8f11b4c0d702164a4731c0b55ffa0"
+  } ]
+}
