@@ -1,10 +1,16 @@
 package base;
 
-import hooks.Hooks;
 import org.openqa.selenium.WebDriver;
-import utils.ConfigReader;
+import org.openqa.selenium.support.PageFactory;
 
 public class Base {
-    protected WebDriver driver = Hooks.driver; // Access the shared WebDriver
-    protected ConfigReader config = Hooks.config; // Access the shared ConfigReader
+    protected WebDriver driver;
+
+    public void BasePage(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(driver, this);
+    }
+
+    // You can add common methods here like waitForElement, clickElement, etc.
 }
+
