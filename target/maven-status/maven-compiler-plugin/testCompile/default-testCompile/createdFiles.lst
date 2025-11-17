@@ -1,0 +1,6 @@
+stepsDefinition\SignupSteps.class
+stepsDefinition\PlayVideoSteps.class
+testRunner\TestRunner.class
+utils\ConfigReader.class
+base\Base.class
+hooks\Hooks.class
